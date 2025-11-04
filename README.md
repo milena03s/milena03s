@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @milena03s
-- 👀 I’m interested in Python, automation, and making life easier.
-- 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/milena-soares-2b4758220/) profile!
-- 😄 Pronouns: she/her
+-  Hi, my name is Milena and I'm a CS student at Federal Center for Technological Education (CEFET-RJ), at Rio de Janeiro - Brazil .
+-  I’m interested in Python, automation, and making both my colleagues and my lives a bit easier :)
+-  I’m currently learning gamification techniques and ai powered learning.
+-  How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/milena-soares-2b4758220/) profile!
+-  Pronouns: she/her
+  
+### Stuff I've made in uni in colaboration with others: 
+  this Computational Vision software for hand gesstures, called [Sentinela](https://github.com/noemicho/sentinela), this [Anime Dataset Analysis](https://github.com/ErichJohann/Anime_Dataset_Analysis), and some smaller [python challenges](https://github.com/milena03s/MeusDesafiosRamoIEEE)for a bigger project coming soon. Stay tuned for more!
 
 
 <!---
