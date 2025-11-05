@@ -1,4 +1,6 @@
--  Hi, my name is Milena and I'm a CS student at Federal Center for Technological Education (CEFET-RJ), at Rio de Janeiro - Brazil .
+Hi!ヾ(•̀ ヮ <)و 
+
+My name is Milena and I'm a CS student at Federal Center for Technological Education (CEFET-RJ), at Rio de Janeiro - Brazil .
 -  I’m interested in Python, automation, and making both my colleagues and my lives a bit easier :)
 -  I’m currently learning gamification techniques and ai powered learning.
 -  How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/milena-soares-2b4758220/) profile!
