@@ -1,4 +1,4 @@
-Hi!ヾ(•̀ ヮ <)و 
+Hi! ⸜(｡˃ ᵕ ˂ )⸝♡
 
 My name is Milena and I'm a CS student at Federal Center for Technological Education (CEFET-RJ), at Rio de Janeiro - Brazil .
 -  I’m interested in Python, automation, and making both my colleagues and my lives a bit easier :)
@@ -7,7 +7,7 @@ My name is Milena and I'm a CS student at Federal Center for Technological Educa
 -  Pronouns: she/her
   
 ### Stuff I've made in uni in colaboration with others: 
-  this Computational Vision software for hand gesstures, called [Sentinela](https://github.com/noemicho/sentinela), this [Anime Dataset Analysis](https://github.com/ErichJohann/Anime_Dataset_Analysis), and some smaller [python challenges](https://github.com/milena03s/MeusDesafiosRamoIEEE) for a bigger project coming soon. Stay tuned for more!
+  this Computational Vision software for hand gesstures, called [Sentinela](https://github.com/noemicho/sentinela), this [Anime Dataset Analysis](https://github.com/ErichJohann/Anime_Dataset_Analysis), and some smaller [python challenges](https://github.com/milena03s/MeusDesafiosRamoIEEE) for a bigger project coming soon. Stay tuned for more! ( • ᴗ - ) ✧
 
 
 <!---
